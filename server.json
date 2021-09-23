@@ -1,0 +1,33 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Rambo's shaver",
+            "price": 290.90
+        },
+        {
+            "id": 1,
+            "title": "Bruce Lee's glasses",
+            "price": 395.90
+        },
+        {
+            "id": 1,
+            "title": "Chuck Norris hair comb",
+            "price": 500.90
+        }
+    ],
+    "stock": [
+        {
+            "id": 1,
+            "quantity": 3
+        },
+        {
+            "id": 2,
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "quantity": 1
+        }
+    ]
+}
